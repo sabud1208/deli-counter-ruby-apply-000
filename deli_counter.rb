@@ -27,3 +27,5 @@ while num < katz_deli.length do
     puts current
   end
 end
+
+puts take_a_number(katz_deli, "Armando")
